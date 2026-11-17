@@ -2,7 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, me chamo Guilherme Fernandes e tenho 23 anos. Sou natural do Rio de Janeiro mas vivo a maior parte da minha vida na Baixada Fluminense, onde curso "Ciência da Computação" na Universidade Federal Rural do Rio de Janeiro (UFRRJ).
+Olá, me chamo Guilherme Fernandes e tenho 23 anos. Sou natural do Rio de Janeiro mas vivo a maior parte da minha vida na Baixada Fluminense, onde curso Ciência da Computação na Universidade Federal Rural do Rio de Janeiro (UFRRJ).
+
+Atualmente caminho pro final da graduação e estou buscando minha primeira oportunidade de estágio em Desenvolvimento de Software para aplicar meus conhecimentos técnicos em ambientes reais e acelerar meu aprendizado em equipe.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guilherme-fernandes-17a185328/">
